@@ -1,0 +1,17 @@
+{
+	"name": "Progressive Web App",
+	"description": "A simple example of a PWA (Progressive Web Application).",
+	"short_name": "PWA Example",
+	"icons": [
+		{
+			"src": "assets/icon512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": ".",
+	"display": "standalone",
+	"background_color": "black",
+	"theme_color": "cyan",
+	"scope": "/"
+}

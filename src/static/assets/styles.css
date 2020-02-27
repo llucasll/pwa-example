@@ -1,0 +1,49 @@
+/*
+	Progressive Web App - Simple Example
+	Copyright (C) 2020 - Lucas Camilo
+
+	This program is free software: you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation, either version 3 of the License, or
+	(at your option) any later version.
+
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
+
+	You should have received a copy of the GNU General Public License
+	along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+	You can find me at:
+	- https://github.com/llucasll
+	- https://t.me/llucasll
+	- llucasll.k@hotmail.com
+ */
+
+body {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 150%;
+}
+footer {
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+
+button {
+	text-decoration: none;
+	color: lightgray;
+	background: blue;
+	padding: 1% 2%;
+	border-radius: 10%;
+	font-size: 150%;
+	margin-top: 10%;
+}
+
+button:hover {
+	color: white;
+	box-shadow: 3px 7px midnightblue;
+}
